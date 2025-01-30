@@ -39,7 +39,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
+- *.*[64 Robots](https://64robots.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[Cyber-Duck](https://cyber-duck.co.uk)**
 - **[DevSquad](https://devsquad.com/hire-laravel-developers)**
